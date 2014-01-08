@@ -7,5 +7,3 @@ $('#sandbox-container .input-append.date').datepicker({
     autoclose: true,
     todayHighlight: true
 })
-
-kkçnln
